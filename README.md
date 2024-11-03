@@ -1,6 +1,6 @@
 # LinkifyText Composable for automatically detecting links in a text
 
-![image](https://github.com/user-attachments/assets/83062d25-565b-42db-9de3-19e25e864b0c)
+<img src="screenshots/demo.jpg" width="200" alt="Demo Screenshot">
 
 ## Usage
 
@@ -62,4 +62,4 @@ val content = LinkifyContent(
 
 ## License
 
-MIT, see `LICENSE.txt`.
+MIT, see [`LICENSE.txt`](LICENSE.txt).
